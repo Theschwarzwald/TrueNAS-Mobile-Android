@@ -18,7 +18,7 @@ get a desktop TrueNAS dashboard from your phone or tablet.
 > or the TrueNAS project.
 
 ## Install
-Download `TrueNASMobile.apk` from the [latest release](../../releases/latest) and open it on
+**[Download TrueNASMobile.apk](https://github.com/Theschwarzwald/TrueNAS-Mobile-Android/releases/latest/download/TrueNASMobile.apk)** (or see the [latest release](https://github.com/Theschwarzwald/TrueNAS-Mobile-Android/releases/latest)) and open it on
 your Android device (allow "install unknown apps" when asked). Requires Android 10 or newer.
 
 ## Works with
