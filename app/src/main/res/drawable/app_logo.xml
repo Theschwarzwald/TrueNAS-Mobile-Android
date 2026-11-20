@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder logo: three stacked drive bays. Replace with your own image named app_logo. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp" android:height="96dp"
+    android:viewportWidth="96" android:viewportHeight="96">
+    <path android:fillColor="#0095D5" android:pathData="M14,12h68a6,6 0,0 1,6 6v14a6,6 0,0 1,-6 6h-68a6,6 0,0 1,-6 -6v-14a6,6 0,0 1,6 -6z"/>
+    <path android:fillColor="#0095D5" android:pathData="M14,41h68a6,6 0,0 1,6 6v14a6,6 0,0 1,-6 6h-68a6,6 0,0 1,-6 -6v-14a6,6 0,0 1,6 -6z"/>
+    <path android:fillColor="#0095D5" android:pathData="M14,70h68a6,6 0,0 1,6 6v6a6,6 0,0 1,-6 6h-68a6,6 0,0 1,-6 -6v-6a6,6 0,0 1,6 -6z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M20,23h30v4h-30z M20,52h30v4h-30z"/>
+    <path android:fillColor="#7ED957" android:pathData="M74,25m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0 M74,54m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0 M74,79m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"/>
+</vector>
